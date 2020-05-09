@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: darkgoldenrod;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: darkcyan;
+  text-align: center;
+}
+
+table {
+  border: 2px solid darkorange;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: cornsilk;
+}
+
+td {
+  border-top: 1px solid darkorange;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+
+.middle {
+  text-align: center;
+}
+
+.blue {
+  color: rgb(37, 34, 221);
+}
+
+.removetbmargin {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
